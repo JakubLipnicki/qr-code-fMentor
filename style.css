@@ -17,21 +17,22 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    width: 12rem;
-    padding: 0.7rem 1.3rem;
+    width: 16rem;
+    padding: 0.9rem 1.3rem;
     border-radius: 1rem;
+    box-shadow: 1px 1px 1px lightgrey;
 }
 img{
-    width: 13rem;
+    width: 17rem;
     border-radius: 0.5rem;
 }
 p{
     font-weight: 700;
-    font-size: 1rem;
+    font-size: 1.3rem;
 }
 span{
     font-weight: 400;
     color: hsl(220, 15%, 55%);
-    font-size: 0.7rem;
-    padding-bottom: 1rem;
+    font-size: 0.95rem;
+    padding-bottom: 1.2rem;
 }
